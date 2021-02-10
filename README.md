@@ -1,1 +1,1 @@
-# flag-picker
+# flag-picker-react-app
